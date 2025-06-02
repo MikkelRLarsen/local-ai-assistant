@@ -1,0 +1,30 @@
+{
+  "name": "local-ai-assistant",
+  "version": "3.0.0",
+  "description": "Enhanced Local AI Assistant with improved search functionality",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "ai",
+    "assistant",
+    "search",
+    "local",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "thetawavez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thetawavez/local-ai-assistant.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

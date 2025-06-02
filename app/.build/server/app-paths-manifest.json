@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/listen/route": "app/api/listen/route.js",
+  "/api/agent/route": "app/api/agent/route.js",
+  "/api/finetune/route": "app/api/finetune/route.js",
+  "/api/speak/route": "app/api/speak/route.js",
+  "/api/chat/route": "app/api/chat/route.js",
+  "/api/tools/ip/route": "app/api/tools/ip/route.js",
+  "/api/tools/search/route": "app/api/tools/search/route.js",
+  "/api/tools/time/route": "app/api/tools/time/route.js",
+  "/api/tools/route": "app/api/tools/route.js",
+  "/api/tools/weather/route": "app/api/tools/weather/route.js",
+  "/page": "app/page.js",
+  "/api/voice/route": "app/api/voice/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
